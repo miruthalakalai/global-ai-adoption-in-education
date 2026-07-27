@@ -64,8 +64,9 @@ The project includes:
 ## Tableau Dashboard
 
 Tableau Public Dashboard:
-https://public.tableau.com/app/profile/miruthala.m.k/viz/GlobalAIinEducationDashboard-1/Dashboard1?publish=yes
-https://public.tableau.com/app/profile/miruthala.m.k/viz/GlobalAIinEducationDashboard-2/Dashboard2?publish=yes
+Dashboard 1:https://public.tableau.com/app/profile/miruthala.m.k/viz/GlobalAIinEducationDashboard-1/Dashboard1?publish=yes
+
+dashboard 2:https://public.tableau.com/app/profile/miruthala.m.k/viz/GlobalAIinEducationDashboard-2/Dashboard2?publish=yes
 
 ## Author
 
