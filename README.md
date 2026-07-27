@@ -68,6 +68,22 @@ Dashboard 1:https://public.tableau.com/app/profile/miruthala.m.k/viz/GlobalAIinE
 
 dashboard 2:https://public.tableau.com/app/profile/miruthala.m.k/viz/GlobalAIinEducationDashboard-2/Dashboard2?publish=yes
 
+## Tableau Story
+
+Tableau Public Story:
+https://public.tableau.com/app/profile/miruthala.m.k/viz/GlobalAIinEducationStory/GlobalAIAdoptioninEducationAComprehensiveGlobalPerformanceIntelligenceReport?publish=yes
+
+## Tableau Workbook
+
+Tableau Public Workbook:
+https://public.tableau.com/app/profile/miruthala.m.k/viz/GlobalAIinEducationWorkbook/AVGRuralAIUsage?publish=yes
+
+
+## Web Integration
+
+Web Integration: https://ai-adoption-in-education-miruthala-mk.netlify.app/_
+
+
 ## Author
 
 Miruthala M K
