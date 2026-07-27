@@ -56,7 +56,7 @@ The project includes:
 
 ## Repository Structure
 
-- `Data Source/` – Dataset used for the analysis
+- `Data/` – Dataset used for the analysis
 - `Tableau Workbook/` – Tableau packaged workbook
 - `Dashboard Images/` – Dashboard screenshots
 - `Documentation/` – Project documentation files
