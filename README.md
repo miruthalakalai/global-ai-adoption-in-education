@@ -39,6 +39,9 @@ The dataset contains global AI adoption records in the education sector from 201
 - Data Visualization
 - Microsoft Excel / CSV
 - GitHub
+- HTML
+- CSS
+- Javascript 
 
 ## Visualizations
 
