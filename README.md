@@ -63,6 +63,7 @@ The project includes:
 - `Tableau Workbook/` – Tableau packaged workbook
 - `Dashboard Images/` – Dashboard screenshots
 - `Documentation/` – Project documentation files
+- `Report/` – Project Final Report
 
 ## Tableau Dashboard
 
